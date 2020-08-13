@@ -12,6 +12,3 @@ Provide an interactive stock report webpage using javascript and API calls from 
 ![example1](images/stockreport1.png)
 
 ![example2](images/stockreport2.png)
-
-Example of how Quandl provides information
-![example3](images/how quandl data looks.png)
